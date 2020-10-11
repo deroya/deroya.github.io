@@ -2,7 +2,6 @@ h1{
 background-color:#000;
 color:#fff;
 font-size:3em;
-margin-left: 160px;
 }
 p.fancy{
 color:#CB33FF;
@@ -29,5 +28,15 @@ font-style: oblique;
 
 .sidenav a:hover {
   color: #FBAE82;
+}
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 
