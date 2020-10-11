@@ -11,8 +11,8 @@ font-style: oblique;
   width: 160px;
   position: fixed;
   z-index: 1;
-  top: 0;
-  left: 0;
+  top: 20px;
+  left: 10px;
   background-color: #041951;
   overflow-x: hidden;
   padding-top: 20px;
@@ -30,7 +30,7 @@ font-style: oblique;
   color: #FBAE82;
 }
 .main {
-  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  margin-left: 190px;
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
