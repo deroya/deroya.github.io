@@ -2,6 +2,7 @@ h1{
 background-color:#000;
 color:#fff;
 font-size:3em;
+margin-left: 160px;
 }
 p.fancy{
 color:#CB33FF;
@@ -14,7 +15,7 @@ font-style: oblique;
   top: 0;
   left: 0;
   background-color: #041951;
-  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow-x: hidden;
   padding-top: 20px;
 }
 
@@ -22,7 +23,7 @@ font-style: oblique;
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #000000;
+  color: #ffffff;
   display: block;
 }
 
