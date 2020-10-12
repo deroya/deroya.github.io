@@ -2,6 +2,11 @@ h2{
   color:#000000;
   font-style: oblique
 }
+p {
+  font-size: 14px;
+  color: #000000;
+  text-align: justify;
+}
 p.fancy{
 color:#CB33FF;
 font-style: oblique;
