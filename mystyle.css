@@ -1,10 +1,10 @@
-.h2{
+h2{
   color:#000000;
   font-style: oblique
 }
 p.fancy{
 color:#CB33FF;
-font-style: normal;
+font-style: oblique;
   font-family: Arial, Helvetica, sans-serif;
 }
 .sidenav {
