@@ -39,7 +39,7 @@ font-family: 'Cedarville Cursive', cursive;
 }
 .main {
   margin-left: 190px;
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 28px
   padding: 0px 10px;
 }
 
