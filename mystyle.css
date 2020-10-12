@@ -39,7 +39,7 @@ font-family: 'Sacramento', cursive;
 .main {
   margin-left: 190px;
   font-size: 28px
-  padding: 0px 10px;
+  padding: 100px;
 }
 
 @media screen and (max-height: 450px) {
