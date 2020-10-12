@@ -12,6 +12,7 @@ p.fancy{
 font-family: 'Cedarville Cursive', cursive;
   color: #000000;
   font-size: 22px;
+  font-style: oblique;
   text-align: right;
 }
 .sidenav {
