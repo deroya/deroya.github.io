@@ -7,12 +7,11 @@ p {
   color: #000000;
   text-align: justify;
 }
-@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 p.fancy{
-font-family: 'Cedarville Cursive', cursive;
+font-family: 'Sacramento', cursive;
   color: #000000;
   font-size: 22px;
-  font-style: oblique;
   text-align: right;
 }
 .sidenav {
