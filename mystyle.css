@@ -1,13 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 h2{
+  font-family: 'Sacramento', cursive;
   color:#000000;
-  font-style: oblique
 }
 p {
   font-size: 14px;
   color: #000000;
   text-align: justify;
 }
-@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 p.fancy{
 font-family: 'Sacramento', cursive;
   color: #000000;
