@@ -119,7 +119,10 @@ html {
   padding: 50px;
   text-align: center;
   background-color: #474e5d;
-  color: white;
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+  text-align: justify;
 }
 
 .container {
