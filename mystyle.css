@@ -84,7 +84,7 @@ body, html {
   outline: 0;
   display: inline-block;
   padding: 10px 25px;
-  color: black;
+  color: #000000;
   font-family: 'Oswald', sans-serif;
   background-color: #cfa3c7;
   text-align: center;
@@ -93,7 +93,7 @@ body, html {
 
 .hero-text button:hover {
   background-color: #9e7597;
-  color: white;
+  color: #ffffff;
 }
 html {
   box-sizing: border-box;
@@ -131,30 +131,26 @@ html {
   clear: both;
   display: table;
 }
-
-.title {
-  color: grey;
-}
-
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
-
 @media screen and (max-width: 650px) {
   .column {
     width: 100%;
     display: block;
   }
+  table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  font-family: 'Oswald', sans-serif;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #9e7597;
+  color: #ffffff;
+}
 
