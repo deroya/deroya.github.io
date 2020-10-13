@@ -33,6 +33,11 @@ font-family: 'Sacramento', cursive;
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("tempeheader.jpg");
   height: 50%;
