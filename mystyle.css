@@ -22,32 +22,10 @@ font-family: 'Sacramento', cursive;
   font-size: 22px;
   text-align: right;
 }
-.sidenav {
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 300px;
-  left: 10px;
-  background-color: #041951;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-family: 'Oswald', sans-serif;
-  font-size: 25px;
-  color: #ffffff;
-  display: block;
-}
-
-.sidenav a:hover {
-  color: #FBAE82;
-}
 .main {
   margin-left: 190px;
  margin-right: 190px;
+  margin-bottom: 50px;
     font-size: 28px
 }
 
@@ -55,12 +33,6 @@ font-family: 'Sacramento', cursive;
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-body, html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("tempeheader.jpg");
   height: 50%;
@@ -153,4 +125,11 @@ th {
   background-color: #9e7597;
   color: #ffffff;
 }
-
+a:link {
+  color: #cfa3c7;
+  text-decoration: none;
+}
+  a:hover {
+  color: #9e7597;
+  text-decoration: none;
+}
