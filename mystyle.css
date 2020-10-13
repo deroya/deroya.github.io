@@ -78,13 +78,14 @@ body, html {
   display: inline-block;
   padding: 10px 25px;
   color: black;
-  background-color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  background-color: #cfa3c7;
   text-align: center;
   cursor: pointer;
 }
 
 .hero-text button:hover {
-  background-color: #555;
+  background-color: #9e7597;
   color: white;
 }
 
