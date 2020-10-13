@@ -3,7 +3,8 @@ h2{
   font-family: 'Sacramento', cursive;
   color:#000000;
 }
-ul{
+ul.a{
+  list-style-type: square;
   font-size: 14px;
   font-family: 'Oswald', sans-serif;
   color: #000000;
