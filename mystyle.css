@@ -26,6 +26,7 @@ font-family: 'Sacramento', cursive;
   margin-left: 190px;
  margin-right: 190px;
   margin-bottom: 50px;
+  font-size: 28px;
 }
 
 @media screen and (max-height: 450px) {
