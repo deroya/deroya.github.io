@@ -2,6 +2,10 @@
 h2{
   font-family: 'Sacramento', cursive;
   color:#000000;
+  @media screen and (max-width: 600px) {
+  div.example {
+    font-size: 30px;
+  }
 }
 ul.a{
   list-style-type: square;
