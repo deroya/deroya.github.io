@@ -139,12 +139,6 @@ a:link {
   color: #9e7597;
   text-decoration: none;
 }
-figure {
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: 290px;
-}
-
 figcaption {
   color: #000000;
   font-family: 'Oswald', sans-serif;
