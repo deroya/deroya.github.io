@@ -142,12 +142,12 @@ a:link {
 figure {
   border: 1px #cccccc solid;
   padding: 4px;
-  margin: 5px;
+  margin: auto;
 }
 
 figcaption {
   color: #000000;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Oswald', sans-serif;
   font-style: italic;
   padding: 2px;
   text-align: center;
