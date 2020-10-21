@@ -139,3 +139,16 @@ a:link {
   color: #9e7597;
   text-decoration: none;
 }
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  color: #000000;
+  font-family: 'Sacramento', cursive;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
