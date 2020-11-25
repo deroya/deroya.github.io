@@ -18,7 +18,7 @@ body, html {
   text-align: left;
   position: absolute;
   top: 50%;
-  left: 30%;
+  left: 40%;
   transform: translate(-50%, -50%);
   color: white;
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -27,7 +27,7 @@ body, html {
   text-align: right;
   position: absolute;
   top: 50%;
-  left: 70%;
+  left: 60%;
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   color: white
