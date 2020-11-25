@@ -2,7 +2,7 @@
 body, html {
   height: 100%;
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .hero-image {
@@ -21,6 +21,7 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 .hero-text button {
