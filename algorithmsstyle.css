@@ -1,1 +1,10 @@
-
+.header {
+  padding: 60px;
+  text-align: left;
+  background: #0EA878;
+  color: white;
+  font-size: 30px;
+}
+.p{
+text-align: right;
+}
