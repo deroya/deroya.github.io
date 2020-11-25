@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Yanone+Kaffeesatz:wght@300&display=swap');
 .header {
-  padding: 200px;
+  margin-left: 200px;
+  padding: 60px;
   text-align: left;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   background: #0EA878;
@@ -8,7 +9,8 @@
   font-size: 30px;
 }
 .p{
-  padding: 200px;
+  margin-right: 200px;
+  padding: 60px;
 text-align: right;
   font-family: 'Montserrat', sans-serif;
 }
