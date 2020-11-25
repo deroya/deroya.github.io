@@ -23,6 +23,11 @@ body, html {
   color: white;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
+.p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: white
+}
 
 .hero-text button {
   border: none;
