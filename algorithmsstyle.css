@@ -24,8 +24,9 @@ body, html {
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .p {
+  text-align: right;
   font-family: 'Montserrat', sans-serif;
-  font-size: 50px;
+  font-size: 30px;
   color: white
 }
 
