@@ -85,3 +85,9 @@ body, html {
   top: 200px;
   background-color: #AD59F3
 }
+.main {
+  margin-left: 190px;
+ margin-right: 190px;
+  margin-bottom: 50px;
+  font-size: 28px;
+}
