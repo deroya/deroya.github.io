@@ -50,14 +50,14 @@ body, html {
 }
 #mySidenav a {
   position: absolute;
-  left: -80px;
+  left: -100px;
   transition: 0.3s;
   padding: 15px;
   width: 100px;
   height: 10px;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
   color: white;
   border-radius: 0 5px 5px 0;
 }
