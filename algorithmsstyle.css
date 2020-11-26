@@ -67,20 +67,20 @@ body, html {
 
 #about {
   top: 20px;
-  background-color: #4CAF50;
+  background-color: #7C1ACC;
 }
 
 #blog {
   top: 80px;
-  background-color: #2196F3;
+  background-color: #7C1ACC;
 }
 
 #projects {
   top: 140px;
-  background-color: #f44336;
+  background-color: #7C1ACC;
 }
 
 #contact {
   top: 200px;
-  background-color: #555
+  background-color: #7C1ACC
 }
