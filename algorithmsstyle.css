@@ -50,7 +50,7 @@ body, html {
 }
 #mySidenav a {
   position: absolute;
-  left: -100px;
+  left: -200px;
   transition: 0.3s;
   padding: 15px;
   width: 200px;
