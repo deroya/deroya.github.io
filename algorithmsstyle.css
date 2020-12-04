@@ -33,21 +33,6 @@ body, html {
   color: white
 }
 
-.hero-text button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 10px 25px;
-  color: black;
-  background-color: #ddd;
-  text-align: center;
-  cursor: pointer;
-}
-
-.hero-text button:hover {
-  background-color: #555;
-  color: white;
-}
 #mySidenav a {
   position: absolute;
   left: -200px;
@@ -96,4 +81,9 @@ img {
   float: left;
   border: 1px dotted black;
   margin: 0px 10px 0px 20px;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: black
 }
