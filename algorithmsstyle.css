@@ -76,12 +76,12 @@ body, html {
  margin-right: 50px;
   margin-bottom: 50px;
 }
-figure.left {
+.left {
   float: left;
   border: 1px dotted black;
   margin: 0px 10px 0px 20px;
 }
-figure.right {
+.right {
   float: right;
   border: 1px dotted black;
   margin: 0px 10px 0px 20px;
