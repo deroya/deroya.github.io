@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Yanone+Kaffeesatz:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Yanone+Kaffeesatz:wght@300&display=swap');
 body, html {
   height: 100%;
   margin: 0;
@@ -90,5 +90,4 @@ p.one {
 color: white;
 font-family: 'Montserrat', sans-serif;
   font-size: 14px;
-  font-weight: bold;
 }
