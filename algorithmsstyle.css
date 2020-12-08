@@ -51,22 +51,22 @@ body, html {
   left: 0;
 }
 
-#about {
+#home {
   top: 20px;
   background-color: #AD59F3;
 }
 
-#blog {
+#effects {
   top: 80px;
   background-color: #AD59F3;
 }
 
-#projects {
+#examples {
   top: 140px;
   background-color: #AD59F3;
 }
 
-#contact {
+#references {
   top: 200px;
   background-color: #AD59F3
 }
@@ -76,7 +76,7 @@ body, html {
  margin-right: 50px;
   margin-bottom: 50px;
 }
-img {
+figure {
   float: left;
   border: 1px dotted black;
   margin: 0px 10px 0px 20px;
@@ -90,4 +90,5 @@ p.one {
 color: white;
 font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+  font-weight: bold;
 }
