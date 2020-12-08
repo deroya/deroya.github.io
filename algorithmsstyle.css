@@ -86,7 +86,7 @@ body, html {
   border: 1px dotted black;
   margin: 0px 10px 0px 20px;
 }
-h2 {
+.h2 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
   font-size: 30px;
   color: black
@@ -96,8 +96,12 @@ color: white;
 font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-figcaption {
+.figcaption {
   font-family: 'Montserrat', sans-serif;
   font-size: 10px;
    text-align: center;
+}
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
 }
