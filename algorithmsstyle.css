@@ -92,7 +92,7 @@ body, html {
   color: black
 }
 p.one {
-color: white;
+color: black;
 font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
@@ -104,4 +104,7 @@ font-family: 'Montserrat', sans-serif;
 .hangingindent {
   padding-left: 22px ;
   text-indent: -22px ;
+  color: black;
+font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
