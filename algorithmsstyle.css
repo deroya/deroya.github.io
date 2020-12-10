@@ -111,4 +111,5 @@ font-family: 'Montserrat', sans-serif;
 video {
   display: block;
   margin: auto;
+  border: 0;
 }
