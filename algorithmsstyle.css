@@ -93,9 +93,9 @@ body, html {
 }
 .h3 {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 30px;
+   font-size: 30px;
+    text-align: center
   color: black
-    text-align: center;
 }
 p.one {
 color: black;
